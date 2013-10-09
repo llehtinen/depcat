@@ -1,0 +1,3 @@
+com.systemout:depcat-plugin,prop
+com.jcabi:jcabi-aether,oss
+org.apache.maven.*:*,oss
